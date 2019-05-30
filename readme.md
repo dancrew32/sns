@@ -1,4 +1,4 @@
-# Send a SMS Text Message via SNS
+# Send an SMS Text Message via SNS
 
 ## Setup Credentials:
 
